@@ -134,3 +134,4 @@ dmypy.json
 # Advent of code related
 .setup.json
 src/adventofcode/inputs
+.session
